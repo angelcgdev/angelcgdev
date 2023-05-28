@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Luis Angel</h1>
 <h3 align="center">A passionate frontend developer from Perú</h3>
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I'm currently learning **NextJS** in depth
 
 - 💬 Ask me about **react, flutter**
 
